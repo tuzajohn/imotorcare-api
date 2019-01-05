@@ -1,2 +1,2 @@
 # imotorcare-api
-api for imotrcare
+api for imotorcare
